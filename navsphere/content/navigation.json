@@ -892,6 +892,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756704393539",
+      "title": "工作站点",
+      "icon": "FolderKanban",
+      "description": "工作相关的站点",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
