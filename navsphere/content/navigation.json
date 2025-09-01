@@ -899,7 +899,16 @@
       "icon": "Home",
       "description": "工作相关的站点",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1756704460779_60zk000e9",
+          "title": "JumpServer",
+          "href": "https://172.25.200.10/ui/#/workbench/home",
+          "description": "访问 172.25.200.10",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.25.200.10",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
